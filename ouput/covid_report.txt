@@ -1,0 +1,31 @@
+
+COVID-19 Data Engineering Pipeline Report
+========================================
+Generated on: 2025-06-27 15:27:21
+
+GLOBAL STATISTICS
+-----------------
+Total Cases: 704,753,890
+Total Deaths: 7,010,681
+Total Recovered: 675,619,811
+Active Cases: 22,123,398
+Global Mortality Rate: 0.99%
+
+TOP 5 MOST AFFECTED COUNTRIES
+-----------------------------
+USA: 111,820,082 cases, 1,219,487 deaths (1.09% mortality)
+India: 45,035,393 cases, 533,570 deaths (1.18% mortality)
+France: 40,138,560 cases, 167,642 deaths (0.42% mortality)
+Germany: 38,828,995 cases, 183,027 deaths (0.47% mortality)
+Brazil: 38,743,918 cases, 711,380 deaths (1.84% mortality)
+
+PIPELINE STATISTICS
+------------------
+Countries Processed: 231
+Database Size: 72.00 KB
+Processing Time: 2025-06-27 15:27:21
+
+Files Generated:
+- covid_data.db (SQLite database)
+- covid_dashboard.png (Visualization dashboard)
+- covid_report.txt (This report)
